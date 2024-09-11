@@ -113,10 +113,15 @@ public class MainActivity extends AppCompatActivity {
 
 # OUTPUT:
 ![MAD ex1 on create](https://github.com/user-attachments/assets/a792356a-08e6-4dfc-950a-21b9147c7922)
+
 ![MAD ex1 onresume](https://github.com/user-attachments/assets/9950437d-8dbc-49df-a569-cbc159a9f22c)
+
 ![MAD ex1 onpause](https://github.com/user-attachments/assets/c8c67c6c-70cb-4b4a-bdf2-ef347f07e8e8)
+
 ![MAD ex1 onstop](https://github.com/user-attachments/assets/6988128a-4838-47d2-8e12-24a74857bc55)
+
 ![MAD ex1 onrestart](https://github.com/user-attachments/assets/8001b3f7-21ac-4af4-90bc-a4ae84cf4df9)
+
 ![MAD ex1 ondestroy](https://github.com/user-attachments/assets/b8b79617-3790-475b-840a-47826c1e9f09)
 
 # RESULT:
